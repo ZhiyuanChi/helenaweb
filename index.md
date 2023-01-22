@@ -4,9 +4,7 @@
 Commuters need to get to their destination on time. To provide commuters with greater insight into their commute, my colleague [Jack Rummler](https://github.com/jtrummler) and I created a fictional app that predicts train delays in advance.
 
 Our app's predictive models were highly accurate - on average, our predictions were off by just 26 seconds. Our combination of models provided increasingly accurate delay predictions up to a week in advance.
-
-<img src="images/njtransit/models_mae.png?raw=true"/>
-
+#<img src="images/njtransit/models_mae.png?raw=true"/>
 <img src="images/njtransit/models_mae_line.png?raw=true"/>
 
 Follow along with our code [here](https://rradams.github.io/adams_rummler_MUSA508_final/Adams_Rummler_508_Final.html), or watch our presentation [here](https://www.youtube.com/watch?v=vrF7Rini-4M).
@@ -25,7 +23,7 @@ The project's report is available [here](https://rradams.github.io/MUSA550_Final
 ---
 ### Mapping School Accessibiliy in Philadelphia 
 
-How many top public schools can Philadelphia's students reach via SEPTA? In Philadelphia, school buses are provided up to the 6th grade. For students in 7th grades and above, the school district provides them with a free SEPTA pass for the school year. For these students, SEPTA __is__ the school bus.
+How many top public schools can Philadelphia's students reach via SEPTA? In Philadelphia, school buses are provided up to the 6th grade. For students in 7th grades and above, the school district provides them with a free SEPTA pass for the school year. For these students, SEPTA _is_ the school bus.
 
 Not all schools are created equal, however - Philadelphia's criteria schools are considered the city's top public schools, and are highly competitive to get into. Admissions criteria aside, can students get to them?
 
@@ -35,9 +33,6 @@ My analysis found that the majority (68%) of middle schoolers have no access to 
 More than a third (39%) of high schoolers have no access to a criteria high school.
 <img src="images/phl_schools/highsch_access_gif.gif?raw=true"/>
 
-School accessibility changes over the course of the morning, and demonstrates how important students are as a portion of the city's off-peak commuters. Transit planners should consider the needs of students when planning routes for the city.
-
-<img src="images/phl_schools/Access_Chart.png?raw=true"/>
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
