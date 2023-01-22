@@ -1,16 +1,16 @@
 ## Portfolio
 ---
-### Predicting NJ Transit Delays
+### [Predicting NJ Transit Delays](https://rradams.github.io/adams_rummler_MUSA508_final/Adams_Rummler_508_Final.html)
 Commuters need to get to their destination on time. To provide commuters with greater insight into their commute, my colleague [Jack Rummler](https://github.com/jtrummler) and I created a fictional app that predicts train delays in advance.
 
 Our app's predictive models were highly accurate - on average, our predictions were off by just 26 seconds. Our combination of models provided increasingly accurate delay predictions up to a week in advance.
-#<img src="images/njtransit/models_mae.png?raw=true"/>
+
 <img src="images/njtransit/models_mae_line.png?raw=true"/>
 
 Follow along with our code [here](https://rradams.github.io/adams_rummler_MUSA508_final/Adams_Rummler_508_Final.html), or watch our presentation [here](https://www.youtube.com/watch?v=vrF7Rini-4M).
 
 ---
-### Highway Infastructure and Real Estate Values in Wake County, NC
+### [Highway Infastructure and Real Estate Values in Wake County, NC](https://rradams.github.io/MUSA550_Final/)
 
 North Carolina is building NC-540, a beltway through Raleigh’s suburbs in Wake County. How might the upcoming NC-540 highway impact home values when it opens in 2023?
 
