@@ -1,7 +1,7 @@
 ## Portfolio
 ---
 ### [Evaluating and Forecasting for Philadelphia's Bike Share Expansion]( https://indegoexpansion.web.app/)
-[Indego](https://www.rideindego.com/), Philadelphia's bike share system, wants to expand their network to optimize for ridership, accessibility, and equity. To help Indegeo's planners evaluate different expansion plans, we created [Station Planner](https://indegoexpansion.web.app/). As our team's machine learning lead, I built a model that predicts areas of high and low ridership across Philadelphia.  Our interactive tool lets planners place new bike stations on the map to see what expected future ridership, accessibility, and equity looks like across the city. 
+[Indego](https://www.rideindego.com/), Philadelphia's bike share system, wants to expand their network to optimize for ridership, accessibility, and equity. To help Indegeo's planners evaluate different expansion plans, we created [Station Planner](https://indegoexpansion.web.app/). As our team's machine learning lead, I built a model that predicts areas of high and low ridership across Philadelphia.  Our interactive tool lets planners place new bike stations on the map to see what expected future ridership, accessibility, and equity looks like for the system. 
 
 <img src="images/practicum/app_screenshot_2.png?raw=true"/>
 
