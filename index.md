@@ -11,7 +11,7 @@ This project was produced as part of the [University of Pennsylvania’s Master 
 
 ---
 ### [Predicting NJ Transit Delays](https://rradams.github.io/adams_rummler_MUSA508_final/Adams_Rummler_508_Final.html)
-Commuters need to get to their destinations on time. To provide commuters with greater insight into their commute, my colleague [Jack Rummler](https://github.com/jtrummler) and I created a fictional app that predicts train delays in advance.
+Commuters need to get to their destinations on time. To provide commuters with greater insight into their commute, my colleague [Jack Rummler](https://jtrummler.xyz/) and I created a fictional app that predicts train delays in advance.
 
 Our app's predictive models were highly accurate - on average, our predictions were off by just 26 seconds. Our combination of models provided increasingly accurate delay predictions up to a week in advance.
 
