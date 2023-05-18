@@ -19,7 +19,7 @@ But what we were really intersted in were the images that our models *thought* w
 
 <img src="images/remote_sensing/false_positives.png?raw=true"/>
 
-Check out our summary presentation [here](https://rebekahadams.com/pdf/adams-tran-urban-expansion-pres.pdf), follow along with our code [here](https://github.com/rradams/MUSA650_RemoteSensing_Final), or read our report [here](https://github.com/rradams/portfolio/pdf/adams-tran-urban-expansion-report.pdf).
+Check out our summary presentation [here](https://rebekahadams.com/pdf/adams-tran-urban-expansion-pres.pdf), follow along with our code [here](https://github.com/rradams/MUSA650_RemoteSensing_Final), or read our report [here](https://rebekahadams.com/pdf/adams-tran-urban-expansion-report.pdf).
 
 ---
 ### [Predicting NJ Transit Delays](https://rradams.github.io/adams_rummler_MUSA508_final/Adams_Rummler_508_Final.html)
