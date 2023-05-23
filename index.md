@@ -21,7 +21,7 @@ But what we were really intersted in were the images that our models *thought* w
 
 <img src="images/remote_sensing/false_positives.png?raw=true" alt="Presentation slide of examples of false positives: images predicted as urban but labelled as non-urban. Some examples show areas that appear to be urbanized."/>
 
-Check out our [summary presentation](https://rebekahadams.com/pdf/adams-tran-urban-expansion-pres.pdf), follow along with [our code](https://github.com/rradams/MUSA650_RemoteSensing_Final), or [read our report](https://rebekahadams.com/pdf/adams-tran-urban-expansion-report.pdf). For folks looking to create tiled image datasets, I've written up my process [here](https://rebekahadams.com/creating_tiles.md).
+Check out our [summary presentation](https://rebekahadams.com/pdf/adams-tran-urban-expansion-pres.pdf), follow along with [our code](https://github.com/rradams/MUSA650_RemoteSensing_Final), or [read our report](https://rebekahadams.com/pdf/adams-tran-urban-expansion-report.pdf).
 
 ---
 ### [Predicting NJ Transit Delays](https://rradams.github.io/adams_rummler_MUSA508_final/Adams_Rummler_508_Final.html)
