@@ -24,8 +24,22 @@ But what we were really intersted in were the images that our models *thought* w
 Check out our [summary presentation](https://rebekahadams.com/pdf/adams-tran-urban-expansion-pres.pdf), follow along with [our code](https://github.com/rradams/MUSA650_RemoteSensing_Final), or [read our report](https://rebekahadams.com/pdf/adams-tran-urban-expansion-report.pdf).
 
 ---
+### Estimating Causality: Estimating the impact of NC-540 on home values
+Wake County, North Carolina is in the process of building NC-540, a tolled beltway through Raleigh’s outer suburbs. I wanted to know: what impact has the highway had on nearby home values? 
+
+Using a Differences-in-Differences approach, I estimate that single-family homes within two miles of NC-540 have seen their values increase by more than $36,000 due to the new highway. When home features are taken into account, the effect is even larger: homes near the highway have seen an average $49,000 boost in value.
+
+<img src="images/exp_design/control_v_treatment_tiled.png?raw=true" alt="Map of treatment and control groups. Homes within the treated group are homes within a 2-mile redius of existing NC-540 entrances and exits. Homes within the control group are homes within a 2-mile radius of estimated future NC-540 intersections."/>
+
+This result is robust to a placebo test, indicating that these results can be attributed to the opening of the highway in 2012. Examining the parallel trends of treatment and control groups, we see that after 2012, homes within the treatment group (i.e. homes with access of NC-540) saw their home values increase at a greater pace than those in the control group. It also appears that home values in the treatment group were more resilient to the 2008 financial crisis despite not yet having access to NC-540. It is possible that anticipation of the future highway helped buoy these homes' values at that time.
+
+<img src="images/exp_design/NC540_Parallel_Trends.png?raw=true" alt="Graph of the parallel trends of average home values (in 2019 dollars) of treatment and control groups from 2000-2019. From 2000-2008, the control group's home values were slightly higher than the treatment group. In 2008, this trend reversed, and treatment group's home values depreciated less quickly than the control group's. After 2012, there is steeper increase in home values of the treatment group compared to the control group."/>
+
+For deeper discussion into my methods, check out [my report](https://rebekahadams.com/pdf/Adams_DID_report.pdf). This report was prepared for my class in Quasi-Experimental Design.
+
+---
 ### [Predicting NJ Transit Delays](https://rradams.github.io/adams_rummler_MUSA508_final/Adams_Rummler_508_Final.html)
-Commuters need to get to their destinations on time. To provide commuters with greater insight into their commute, my colleague [Jack Rummler](https://jtrummler.xyz/) and I created a fictional app that predicts train delays in advance.
+Commuters need to get to their destinations on time. To provide commuters with greater insight into their commute, my colleague [Jack Rummler](https://jtrummler.xyz/) and I created a fictional app that predicts NJ Transit train delays in advance.
 
 Our app's predictive models were highly accurate - on average, our predictions were off by just 26 seconds. Our combination of models provided increasingly accurate delay predictions up to a week in advance.
 
