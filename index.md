@@ -35,7 +35,7 @@ This result is robust to a placebo test, indicating that these results can be at
 
 <img src="images/exp_design/NC540_Parallel_Trends.png?raw=true" alt="Graph of the parallel trends of average home values (in 2019 dollars) of treatment and control groups from 2000-2019. From 2000-2008, the control group's home values were slightly higher than the treatment group. In 2008, this trend reversed, and treatment group's home values depreciated less quickly than the control group's. After 2012, there is steeper increase in home values of the treatment group compared to the control group."/>
 
-For deeper discussion into my methods, check out [my report](https://rebekahadams.com/pdf/Adams_DID_report.pdf). This report was prepared for my class in Quasi-Experimental Design.
+For deeper discussion into my methods, check out [my report](https://rebekahadams.com/pdf/Adams_DID_report.pdf). This report was prepared for my class on Quasi-Experimental Design Methods.
 
 ---
 ### [Predicting NJ Transit Delays](https://rradams.github.io/adams_rummler_MUSA508_final/Adams_Rummler_508_Final.html)
