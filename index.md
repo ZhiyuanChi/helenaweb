@@ -11,7 +11,7 @@ This project was produced as part of the [University of Pennsylvania’s Master 
 
 ---
 ### Identifying Urban Land in Indonesia Using Convolutional Neural Networks
-Cities across the developing world are expanding rapidly. Yet few datasets include up-to-date information on land cover in developing countries, making it difficult to track this urban growth. To address this dearth of information, I worked with Tiffany Tran to pilot three machine learning algorithms to identify urban land in the city of Cirebon, Indonesia.
+Cities across the Global South are expanding rapidly. Yet few datasets include up-to-date information on land cover in many of these countries, making it difficult to track this urban growth. To address this dearth of information, I worked with Tiffany Tran to pilot three machine learning algorithms to identify urban land in the city of Cirebon, Indonesia.
 
 For this project, we created a novel dataset of satellite images of Cirebon and its surrounding area, based on the city's most recently mapped area (2014). We then used these images to train and test three different types of convolutional neural networks. Our best model accurately identified urban vs. non-urban images 82% of the time. 
 
