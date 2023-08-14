@@ -39,7 +39,7 @@ For deeper discussion into my methods, check out [my report](https://rebekahadam
 
 ---
 ### [Predicting NJ Transit Delays](https://rradams.github.io/adams_rummler_MUSA508_final/Adams_Rummler_508_Final.html)
-Commuters need to get to their destinations on time. To provide commuters with greater insight into their commute, my colleague [Jack Rummler](https://jtrummler.xyz/) and I created a fictional app that predicts NJ Transit train delays in advance. I led our model's development and build our predictive model in R.
+Commuters need to get to their destinations on time. To provide commuters with greater insight into their commute, my colleague [Jack Rummler](https://jtrummler.xyz/) and I created a fictional app that predicts NJ Transit train delays in advance. I led our model's development and built our predictive model in R.
 
 Our app's predictive models were highly accurate - on average, our predictions were off by just 26 seconds. Our combination of models provided increasingly accurate delay predictions up to a week in advance.
 
@@ -52,6 +52,8 @@ Follow along with our code [here](https://rradams.github.io/adams_rummler_MUSA50
 The fictional Emil City Department of Housing and Community Development wants to figure out how to increase enrollees in a housing subsidy program. I used their campaign data to understand who was more likely to enroll in or churn from the program.
 
 I completed this assignment for the University of Pennsylvania's Public Policy Analyitics course. While the housing subsidy is fictional, the data set used is from a real loan program. This data turned out to be very challenging to build a model to correctly predict for, but I ultimately built a model that correctly predicted enrollment 12.6% of the time -- a modest but positive improvement from the program's previous success rate of 11%. I built this model using R.
+
+<img src="images/churn/thresholds.png?raw=true" alt="Graphs of the total net benefit and total credit provided versus the selected threshold. As the threshold rises, so does the net benefit."/>
 
 Follow along with my [R code here](https://rebekahadams.com/htmls/RAdams_churn.pdf).
 
