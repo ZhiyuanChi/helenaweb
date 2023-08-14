@@ -5,15 +5,15 @@
 
 <img src="images/practicum/app_screenshot_2.png?raw=true" alt="Station Planner App main map page for planning future bike stations."/>
 
-Check out our [interactive app](https://indegoexpansion.web.app/), our [summary presentation](https://indegoexpansion.web.app/about), or follow along with our [code and report](https://indegoexpansion.web.app/html/Final_Presentation.html).
+Check out our [interactive app](https://indegoexpansion.web.app/), our [summary presentation](https://indegoexpansion.web.app/about), or follow along with our [R code and report](https://indegoexpansion.web.app/html/Final_Presentation.html).
 
 This project was produced as part of the [University of Pennsylvania’s Master of Urban Spatial Analytics (MUSA) Spring 2023 Practicum course](https://pennmusa.github.io/MUSA_801.io/) with my colleagues [Minwook Kang](https://mintheworld.com/) and Aidan Rhianne.
 
 ---
 ### Identifying Urban Land in Indonesia Using Convolutional Neural Networks
-Cities across the Global South are expanding rapidly. Yet few datasets include up-to-date information on land cover in many of these countries, making it difficult to track this urban growth. To address this dearth of information, I worked with Tiffany Tran to pilot three machine learning algorithms to identify urban land in the city of Cirebon, Indonesia.
+Cities across the Global South are expanding rapidly. Yet few datasets include up-to-date information on land cover in many of these countries, making it difficult to track this urban growth. To address this dearth of information, I worked with Tiffany Tran to pilot three deep learning algorithms to identify urban land in the city of Cirebon, Indonesia.
 
-For this project, we created a novel dataset of satellite images of Cirebon and its surrounding area, based on the city's most recently mapped area (2014). We then used these images to train and test three different types of convolutional neural networks. Our best model accurately identified urban vs. non-urban images 82% of the time. 
+For this project, I created a novel dataset of satellite images of Cirebon and its surrounding area, based on the city's most recently mapped area (2014). I then used these images to train and test three different types of convolutional neural networks using Tensorflow in Python. Our best model accurately identified urban vs. non-urban images 82% of the time. 
 
 <img src="images/remote_sensing/data_creation.png?raw=true" alt="Presentation slide of the steps to create labelled image tiles from a satellite image of Cirebon, Indonesia."/>
 
@@ -35,17 +35,25 @@ This result is robust to a placebo test, indicating that these results can be at
 
 <img src="images/exp_design/NC540_Parallel_Trends.png?raw=true" alt="Graph of the parallel trends of average home values (in 2019 dollars) of treatment and control groups from 2000-2019. From 2000-2008, the control group's home values were slightly higher than the treatment group. In 2008, this trend reversed, and treatment group's home values depreciated less quickly than the control group's. After 2012, there is steeper increase in home values of the treatment group compared to the control group."/>
 
-For deeper discussion into my methods, check out [my report](https://rebekahadams.com/pdf/Adams_DID_report.pdf). This report was prepared for my class on Quasi-Experimental Design Methods.
+For deeper discussion into my methods, check out [my report](https://rebekahadams.com/pdf/Adams_DID_report.pdf). This report was prepared for my class on Quasi-Experimental Design Methods. I used R for the analysis.
 
 ---
 ### [Predicting NJ Transit Delays](https://rradams.github.io/adams_rummler_MUSA508_final/Adams_Rummler_508_Final.html)
-Commuters need to get to their destinations on time. To provide commuters with greater insight into their commute, my colleague [Jack Rummler](https://jtrummler.xyz/) and I created a fictional app that predicts NJ Transit train delays in advance.
+Commuters need to get to their destinations on time. To provide commuters with greater insight into their commute, my colleague [Jack Rummler](https://jtrummler.xyz/) and I created a fictional app that predicts NJ Transit train delays in advance. I led our model's development and build our predictive model in R.
 
 Our app's predictive models were highly accurate - on average, our predictions were off by just 26 seconds. Our combination of models provided increasingly accurate delay predictions up to a week in advance.
 
 <img src="images/njtransit/models_mae_line.png?raw=true" alt="Graph of increasingly accurate predictions of train delays over time."/>
 
 Follow along with our code [here](https://rradams.github.io/adams_rummler_MUSA508_final/Adams_Rummler_508_Final.html), or watch our presentation [here](https://www.youtube.com/watch?v=vrF7Rini-4M).
+
+---
+### [Predicting Churn: Who will enroll in a housing subsidy program?](https://rebekahadams.com/htmls/RAdams_churn.pdf)
+The fictional Emil City Department of Housing and Community Development wants to figure out how to increase enrollees in a housing subsidy program. I used their campaign data to understand who was more likely to enroll in or churn from the program.
+
+I completed this assignment for the University of Pennsylvania's Public Policy Analyitics course. While the housing subsidy is fictional, the data set used is from a real loan program. This data turned out to be very challenging to build a model to correctly predict for, but I ultimately built a model that correctly predicted enrollment 12.6% of the time -- a modest but positive improvement from the program's previous success rate of 11%. I built this model using R.
+
+Follow along with my [R code here](https://rebekahadams.com/htmls/RAdams_churn.pdf).
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
