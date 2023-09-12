@@ -1,7 +1,7 @@
 ## Portfolio
 ---
-### [Evaluating and Forecasting for Philadelphia's Bike Share Expansion]( https://indegoexpansion.web.app/)
-[Indego](https://www.rideindego.com/), Philadelphia's bike share system, wants to expand their network to optimize for ridership, accessibility, and equity. To help Indegeo's planners evaluate different expansion plans, we created [Station Planner](https://indegoexpansion.web.app/). As our team's machine learning lead, I built a model that predicts areas of high and low ridership across Philadelphia.  Powered by these predictions, our interactive tool lets planners place new bike stations on the map to see what expected future ridership, accessibility, and equity looks like for the system. 
+### [Where Should Philadelphia Build New bike Share Stations?: Predicting and Evaluating for Philadelphia's Bike Share Expansion]( https://indegoexpansion.web.app/)
+[Indego](https://www.rideindego.com/), Philadelphia's bike share system, wants to expand their network to increase ridership (revenue), accessibility, and equity. To help Indegeo evaluate different expansion plans, we created [Station Planner](https://indegoexpansion.web.app/). As our team's machine learning lead, I built a model that predicts areas of high and low ridership across Philadelphia.  Powered by these predictions, our interactive tool lets planners place new bike stations on the map to see what expected future ridership, accessibility, and equity looks like for the system. 
 
 <img src="images/practicum/app_screenshot_2.png?raw=true" alt="Station Planner App main map page for planning future bike stations."/>
 
@@ -24,10 +24,10 @@ But what we were really intersted in were the images that our models *thought* w
 Check out our [summary presentation](https://rebekahadams.com/pdf/adams-tran-urban-expansion-pres.pdf), follow along with [our code](https://github.com/rradams/MUSA650_RemoteSensing_Final), or [read our report](https://rebekahadams.com/pdf/adams-tran-urban-expansion-report.pdf).
 
 ---
-### Estimating Causality: Estimating the impact of NC-540 on home values
+### Estimating Causality: Estimating the Impact of NC-540 on Home Values
 Wake County, North Carolina is in the process of building NC-540, a tolled beltway through Raleigh’s outer suburbs. I wanted to know: what impact has the highway had on nearby home values? 
 
-Using a Differences-in-Differences approach, I estimate that single-family homes within two miles of NC-540 have seen their values increase by more than $36,000 due to the new highway. When home features are taken into account, the effect is even larger: homes near the highway have seen an average $49,000 boost in value.
+Using a Differences-in-Differences approach, I estimate that single-family homes within two miles of NC-540 have seen their values increase by more than $36,000 thanks to the new highway. When home features are taken into account, the effect is even larger: homes near the highway have seen an average $49,000 boost in value.
 
 <img src="images/exp_design/control_v_treatment_tiled.png?raw=true" alt="Map of treatment and control groups. Homes within the treated group are homes within a 2-mile redius of existing NC-540 entrances and exits. Homes within the control group are homes within a 2-mile radius of estimated future NC-540 intersections."/>
 
