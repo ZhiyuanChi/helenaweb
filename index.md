@@ -1,7 +1,8 @@
 ## Portfolio
 ---
-### [Evaluating and Forecasting for Philadelphia's Bike Share Expansion]( https://indegoexpansion.web.app/)
-[Indego](https://www.rideindego.com/), Philadelphia's bike share system, wants to expand their network to optimize for ridership, accessibility, and equity. To help Indegeo's planners evaluate different expansion plans, we created [Station Planner](https://indegoexpansion.web.app/). As our team's machine learning lead, I built a model that predicts areas of high and low ridership across Philadelphia.  Powered by these predictions, our interactive tool lets planners place new bike stations on the map to see what expected future ridership, accessibility, and equity looks like for the system. 
+### [Where Should Philadelphia Build New bike Share Stations?: Predicting and Evaluating for Philadelphia's Bike Share Expansion]( https://indegoexpansion.web.app/)
+
+[Indego](https://www.rideindego.com/), Philadelphia's bike share system, wants to expand their network to increase ridership (revenue), accessibility, and equity. To help Indegeo evaluate different expansion plans, we created [Station Planner](https://indegoexpansion.web.app/). As our team's machine learning lead, I built a model that predicts areas of high and low ridership across Philadelphia.  Powered by these predictions, our interactive tool lets planners place new bike stations on the map to see what expected future ridership, accessibility, and equity looks like for the system. 
 
 <img src="images/practicum/app_screenshot_2.png?raw=true" alt="Station Planner App main map page for planning future bike stations."/>
 
@@ -24,10 +25,10 @@ But what we were really intersted in were the images that our models *thought* w
 Check out our [summary presentation](https://rebekahadams.com/pdf/adams-tran-urban-expansion-pres.pdf), follow along with [our code](https://github.com/rradams/MUSA650_RemoteSensing_Final), or [read our report](https://rebekahadams.com/pdf/adams-tran-urban-expansion-report.pdf).
 
 ---
-### Estimating Causality: Estimating the impact of NC-540 on home values
+### Estimating Causality: Estimating the Impact of NC-540 on Home Values
 Wake County, North Carolina is in the process of building NC-540, a tolled beltway through Raleigh’s outer suburbs. I wanted to know: what impact has the highway had on nearby home values? 
 
-Using a Differences-in-Differences approach, I estimate that single-family homes within two miles of NC-540 have seen their values increase by more than $36,000 due to the new highway. When home features are taken into account, the effect is even larger: homes near the highway have seen an average $49,000 boost in value.
+Using a Differences-in-Differences approach, I estimate that single-family homes within two miles of NC-540 have seen their values increase by more than $36,000 thanks to the new highway. When home features are taken into account, the effect is even larger: homes near the highway have seen an average $49,000 boost in value.
 
 <img src="images/exp_design/control_v_treatment_tiled.png?raw=true" alt="Map of treatment and control groups. Homes within the treated group are homes within a 2-mile redius of existing NC-540 entrances and exits. Homes within the control group are homes within a 2-mile radius of estimated future NC-540 intersections."/>
 
@@ -39,7 +40,7 @@ For deeper discussion into my methods, check out [my report](https://rebekahadam
 
 ---
 ### [Predicting NJ Transit Delays](https://rradams.github.io/adams_rummler_MUSA508_final/Adams_Rummler_508_Final.html)
-Commuters need to get to their destinations on time. To provide commuters with greater insight into their commute, my colleague [Jack Rummler](https://jtrummler.xyz/) and I created a fictional app that predicts NJ Transit train delays in advance. I led our model's development and build our predictive model in R.
+Commuters need to get to their destinations on time. To provide commuters with greater insight into their commute, my colleague [Jack Rummler](https://jtrummler.xyz/) and I created a fictional app that predicts NJ Transit train delays in advance. I led our model's development and built our predictive model in R.
 
 Our app's predictive models were highly accurate - on average, our predictions were off by just 26 seconds. Our combination of models provided increasingly accurate delay predictions up to a week in advance.
 
@@ -48,12 +49,14 @@ Our app's predictive models were highly accurate - on average, our predictions w
 Follow along with our code [here](https://rradams.github.io/adams_rummler_MUSA508_final/Adams_Rummler_508_Final.html), or watch our presentation [here](https://www.youtube.com/watch?v=vrF7Rini-4M).
 
 ---
-### [Predicting Churn: Who will enroll in a housing subsidy program?](https://rebekahadams.com/htmls/RAdams_churn.pdf)
+### [Predicting Churn: Who will enroll in a housing subsidy program?](https://rebekahadams.com/htmls/RAdams_churn.html)
 The fictional Emil City Department of Housing and Community Development wants to figure out how to increase enrollees in a housing subsidy program. I used their campaign data to understand who was more likely to enroll in or churn from the program.
 
 I completed this assignment for the University of Pennsylvania's Public Policy Analyitics course. While the housing subsidy is fictional, the data set used is from a real loan program. This data turned out to be very challenging to build a model to correctly predict for, but I ultimately built a model that correctly predicted enrollment 12.6% of the time -- a modest but positive improvement from the program's previous success rate of 11%. I built this model using R.
 
-Follow along with my [R code here](https://rebekahadams.com/htmls/RAdams_churn.pdf).
+<img src="images/churn/thresholds.png?raw=true" alt="Graphs of the total net benefit and total credit provided versus the selected threshold. As the threshold rises, so does the net benefit."/>
+
+Follow along with my [R code here](https://rebekahadams.com/htmls/RAdams_churn.html).
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
