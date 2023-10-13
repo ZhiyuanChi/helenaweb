@@ -22,7 +22,7 @@ But what we were really intersted in were the images that our models *thought* w
 
 <img src="images/remote_sensing/false_positives.png?raw=true" alt="Presentation slide of examples of false positives: images predicted as urban but labelled as non-urban. Some examples show areas that appear to be urbanized."/>
 
-Check out our [summary presentation](https://rebekahadams.com/pdf/adams-tran-urban-expansion-pres.pdf), follow along with [our code](https://github.com/rradams/MUSA650_RemoteSensing_Final), or [read our report](https://rebekahadams.com/pdf/adams-tran-urban-expansion-report.pdf).
+Check out our [summary presentation](https://rebekahadams.com/pdf/adams-tran-urban-expansion-pres.pdf), follow along with [our Python code](https://github.com/rradams/MUSA650_RemoteSensing_Final), or [read our report](https://rebekahadams.com/pdf/adams-tran-urban-expansion-report.pdf).
 
 ---
 ### Estimating Causality: Estimating the Impact of NC-540 on Home Values
@@ -57,6 +57,16 @@ I used a spatial analysis of Local Indicators of Spatial Autocorrelation (LISA) 
 <img src="images/charlotte/mecklenburg_LISA.png?raw=true" alt="Four maps of LISA's I statistics across Mecklenburg County."/>
 
 Follow along with my Python code [here](https://rebekahadams.com/htmls/charlotte_home_prices.html).
+
+---
+### [Solving an Operational Puzzle: Forecasting Citibike trips for system rebalancing in Brooklyn, NY](https://rebekahadams.com/htmls/Adams_BikeshareHW5_v2.html)
+Citibike lets New Yorkers hop on a bike when they want, to go wherever they want. No more worrying about where to lock up a bike - Citibike’s stations have dedicated slots to securely return your bikes. And no more having to schlep your bike home - bike share means that you can take one-way trips and not have to worry about your bike when you’re done. It’s convenient, easy, and affordable.
+
+This convenience of on-demand bikes creates a puzzle for Citibike: how to ensure that bikes are available where and when they’re needed? If bikes aren’t available at the right place and the right time, ridership and revenue will fall. It’s therefore very important to rebalance bikes in the system: i.e. move bikes from areas of low demand to areas of high demand, before the high demand begins.
+
+To help Citibike rebalance bikes, I created a model to forecast bikeshare demand in Brooklyn. Follow along with my [R code here](https://rebekahadams.com/htmls/Adams_BikeshareHW5_v2.html). This project was originally an assignment for the University of Pennsylvania's Public Policy Analytics course.
+
+<img src="images/Citibike/bk_citibike_trips.gif?raw=true" alt="Gif map of Citibike trips by station across Brooklyn on a Sunday in September 2022. Trips rise over the course of the day, and appear to concentrate in DUMBO, Williamsburg, and Prospect Park."/>
 
 ---
 ### [Predicting Churn: Who will enroll in a housing subsidy program?](https://rebekahadams.com/htmls/RAdams_churn.html)
