@@ -49,6 +49,16 @@ Our app's predictive models were highly accurate - on average, our predictions w
 Follow along with our code [here](https://rradams.github.io/adams_rummler_MUSA508_final/Adams_Rummler_508_Final.html), or watch our presentation [here](https://www.youtube.com/watch?v=vrF7Rini-4M).
 
 ---
+### [How much will that home sell for?: Predicting home prices in Mecklenburg County, NC](https://rebekahadams.com/htmls/charlotte_home_prices.html)
+Mecklenburg County, NC is home to more than a million residents and the city of Charlotte. Using Python, I created a simple machine learning model to predict home prices across the county.
+
+I used a spatial analysis of Local Indicators of Spatial Autocorrelation (LISA) to hone in on statistically significant clusters of high and low home prices.
+
+<img src="images/charlotte/mecklenburg_LISA.png?raw=true" alt="Four maps of LISA's I statistics across Mecklenburg County."/>
+
+Follow along with my Python code [here](https://rebekahadams.com/htmls/charlotte_home_prices.html).
+
+---
 ### [Predicting Churn: Who will enroll in a housing subsidy program?](https://rebekahadams.com/htmls/RAdams_churn.html)
 The fictional Emil City Department of Housing and Community Development wants to figure out how to increase enrollees in a housing subsidy program. I used their campaign data to understand who was more likely to enroll in or churn from the program.
 
