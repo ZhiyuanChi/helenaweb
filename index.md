@@ -78,7 +78,7 @@ I completed this assignment for the University of Pennsylvania's Public Policy A
 
 Follow along with my [R code here](https://rebekahadams.com/htmls/RAdams_churn.html).
 
-below </head>
+after <head>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
