@@ -11,7 +11,7 @@ Check out our [interactive app](https://indegoexpansion.web.app/), our [summary 
 This project was produced as part of the [University of Pennsylvania’s Master of Urban Spatial Analytics (MUSA) Spring 2023 Practicum course](https://pennmusa.github.io/MUSA_801.io/) with my colleagues [Minwook Kang](https://mintheworld.com/) and Aidan Rhianne.
 
 ---
-### Identifying Urban Land in Indonesia Using Convolutional Neural Networks
+### [Where is the city growing?: Identifying Urban Land in Indonesia Using Convolutional Neural Networks](https://rebekahadams.com/pdf/adams-tran-urban-expansion-pres.pdf)
 Cities across the Global South are expanding rapidly. Yet few datasets include up-to-date information on land cover in many of these countries, making it difficult to track this urban growth. To address this dearth of information, I worked with Tiffany Tran to pilot three deep learning algorithms to identify urban land in the city of Cirebon, Indonesia.
 
 For this project, I created a novel dataset of satellite images of Cirebon and its surrounding area, based on the city's most recently mapped area (2014). I then used these images to train and test three different types of convolutional neural networks using Tensorflow in Python. Our best model accurately identified urban vs. non-urban images 82% of the time. 
@@ -39,7 +39,7 @@ This result is robust to a placebo test, indicating that these results can be at
 For deeper discussion into my methods, check out [my report](https://rebekahadams.com/pdf/Adams_DID_report.pdf). This report was prepared for my class on Quasi-Experimental Design Methods. I used R for the analysis.
 
 ---
-### [Predicting NJ Transit Delays](https://rradams.github.io/adams_rummler_MUSA508_final/Adams_Rummler_508_Final.html)
+### [When will the train get here?: Predicting NJ Transit Delays](https://rradams.github.io/adams_rummler_MUSA508_final/Adams_Rummler_508_Final.html)
 Commuters need to get to their destinations on time. To provide commuters with greater insight into their commute, my colleague [Jack Rummler](https://jtrummler.xyz/) and I created a fictional app that predicts NJ Transit train delays in advance. I led our model's development and built our predictive model in R.
 
 Our app's predictive models were highly accurate - on average, our predictions were off by just 26 seconds. Our combination of models provided increasingly accurate delay predictions up to a week in advance.
