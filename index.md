@@ -75,7 +75,7 @@ New York is famous for its iconic subway and sky-high rents. But even in the fac
 
 In this policy brief, I investigate whether rents are higher in areas close to the subway, compared to areas without subway access, and how that has changed over time between 2011 and 2020. [I include my R code](https://rebekahadams.com/htmls/NYC_TOD_study.html) to demonstrate how I performed the analysis.
 
-<img src="images/NYC_TOD/NYC_TOD.pngf?raw=true" alt="Map of median rent prices in NYC in 2020."/>
+<img src="images/NYC_TOD/NYC_TOD.png?raw=true" alt="Map of median rent prices in NYC in 2020."/>
 
 This brief was completed as an assignment in my Public Policy Analytics course at the University of Pennsylvania.
 
