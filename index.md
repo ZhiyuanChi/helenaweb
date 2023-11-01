@@ -73,7 +73,7 @@ To help Citibike rebalance bikes, I created a model to forecast bikeshare demand
 
 New York is famous for its iconic subway and sky-high rents. But even in the face of such high rents, are New Yorkers still willing to pay more to live close to the subway? If they are, the City could consider zoning changes to allow more development close to transit. Increased density could mean increased tax revenue, potentially allowing the City to reinvest that income into expanding the subway and other city services.
 
-In this policy brief, I investigate whether rents are higher in areas close to the subway, compared to areas without subway access, and how that has changed over time between 2011 and 2020. [I include my R code]((https://rebekahadams.com/htmls/NYC_TOD_study.html) at the end to demonstrate how I performed the analysis.
+In this policy brief, I investigate whether rents are higher in areas close to the subway, compared to areas without subway access, and how that has changed over time between 2011 and 2020. [I include my R code](https://rebekahadams.com/htmls/NYC_TOD_study.html) to demonstrate how I performed the analysis.
 
 <img src="images/NYC_TOD/NYC_TOD.pngf?raw=true" alt="Map of median rent prices in NYC in 2020."/>
 
