@@ -69,6 +69,17 @@ To help Citibike rebalance bikes, I created a model to forecast bikeshare demand
 <img src="images/Citibike/bk_citibike_trips.gif?raw=true" alt="Gif map of Citibike trips by station across Brooklyn on a Sunday in September 2022. Trips rise over the course of the day, and appear to concentrate in DUMBO, Williamsburg, and Prospect Park."/>
 
 ---
+### [Are New Yorkers Willing to Pay More for Subway Proximity?: An Exploratory Analysis of Transit Oriented Development (TOD) in New York City](https://rebekahadams.com/htmls/NYC_TOD_study.html)
+
+New York is famous for its iconic subway and sky-high rents. But even in the face of such high rents, are New Yorkers still willing to pay more to live close to the subway? If they are, the City could consider zoning changes to allow more development close to transit. Increased density could mean increased tax revenue, potentially allowing the City to reinvest that income into expanding the subway and other city services.
+
+In this policy brief, I investigate whether rents are higher in areas close to the subway, compared to areas without subway access, and how that has changed over time between 2011 and 2020. [I include my R code]((https://rebekahadams.com/htmls/NYC_TOD_study.html) at the end to demonstrate how I performed the analysis.
+
+<img src="images/NYC_TOD/NYC_TOD.pngf?raw=true" alt="Map of median rent prices in NYC in 2020."/>
+
+This brief was completed as an assignment in my Public Policy Analytics course at the University of Pennsylvania.
+
+---
 ### [Predicting Churn: Who will enroll in a housing subsidy program?](https://rebekahadams.com/htmls/RAdams_churn.html)
 The fictional Emil City Department of Housing and Community Development wants to figure out how to increase enrollees in a housing subsidy program. I used their campaign data to understand who was more likely to enroll in or drop out (churn) from the program.
 
